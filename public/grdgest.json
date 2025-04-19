@@ -1,0 +1,134 @@
+[
+    {
+      "product_id": 1,
+      "product_title": "Laptop Pro X",
+      "product_image": "https://i.ibb.co.com/q08XS6D/kari-shea-1-SAnr-Ixw5-OY-unsplash.jpg",
+      "category": "Computers",
+      "price": 1200,
+      "description": "High-performance laptop with advanced features.",
+      "specification": ["16GB RAM", "512GB SSD", "Intel i7"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 2,
+      "product_title": "Desktop Ultra 5",
+      "product_image": "https://i.ibb.co.com/BTzhTY4/carl-heyerdahl-KE0n-C8-58-MQ-unsplash.jpg",
+      "category": "Computers",
+      "price": 900,
+      "description": "Powerful desktop for gaming and professional use.",
+      "specification": ["32GB RAM", "1TB HDD", "Intel i9"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 3,
+      "product_title": "Tablet Z",
+      "product_image": "https://i.ibb.co.com/BKNtCgw/unseen-studio-Wvu-Tn-Xz1h-Sc-unsplash.jpg",
+      "category": "Computers",
+      "price": 500,
+      "description": "Lightweight tablet for on-the-go use.",
+      "specification": ["10.5 inch Display", "256GB Storage"],
+      "availability": false,
+      "rating": 4.2
+    },
+    {
+      "product_id": 4,
+      "product_title": "Smartphone 12",
+      "product_image": "https://i.ibb.co.com/9VmNrq8/coinview-app-h7a6g0ua6-LM-unsplash.jpg",
+      "category": "Phones",
+      "price": 800,
+      "description": "Latest smartphone with high-end specs.",
+      "specification": ["128GB Storage", "OLED Display", "Dual Camera"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 5,
+      "product_title": "Smartphone Lite",
+      "product_image": "https://i.ibb.co.com/F7qnW3m/kenny-eliason-LUg-HXv-Le-k-M-unsplash.jpg",
+      "category": "Phones",
+      "price": 650,
+      "description": "Affordable smartphone with essential features.",
+      "specification": ["64GB Storage", "LCD Display", "Single Camera"],
+      "availability": true,
+      "rating": 4.0
+    },
+    {
+      "product_id": 6,
+      "product_title": "Smart Watch Plus",
+      "product_image": "https://i.ibb.co.com/V3SzXRf/kiran-ck-Uk-O7-K1-CPFS8-unsplash.jpg",
+      "category": "Smart Watches",
+      "price": 250,
+      "description": "Smartwatch with health tracking features.",
+      "specification": ["Heart Rate Monitor", "GPS", "Waterproof"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": 7,
+      "product_title": "Fitness Tracker Max",
+      "product_image": "https://i.ibb.co.com/HG9FC96/fitnish-media-q8-Emkm9ooig-unsplash.jpg",
+      "category": "Smart Watches",
+      "price": 180,
+      "description": "Fitness tracker with advanced metrics.",
+      "specification": ["Step Counter", "Sleep Monitor", "Battery 10 Days"],
+      "availability": false,
+      "rating": 4.1
+    },
+    {
+      "product_id": 8,
+      "product_title": "USB-C Charger",
+      "product_image": "https://i.ibb.co.com/G720MTF/steve-johnson-ZUab-Nmum-Oc-A-unsplash.jpg",
+      "category": "Chargers",
+      "price": 60,
+      "description": "Fast charging USB-C charger.",
+      "specification": ["65W", "Fast Charging"],
+      "availability": true,
+      "rating": 4.1
+    },
+    {
+      "product_id": 9,
+      "product_title": "Portable Power Bank",
+      "product_image": "https://i.ibb.co.com/Nr7C7gc/gomi-CY4m-Vp-Rv-Pxc-unsplash.jpg",
+      "category": "Power Banks",
+      "price": 100,
+      "description": "Portable power bank with high capacity.",
+      "specification": ["20000mAh", "Dual USB Ports"],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 10,
+      "product_title": "Power Bank",
+      "product_image": "https://i.ibb.co.com/9b0P5Fb/gomi-W9x87-Ets-X4-U-unsplash.jpg",
+      "category": "Power Banks",
+      "price": 100,
+      "description": "Portable power bank with high capacity.",
+      "specification": ["20000mAh", "Dual USB Ports"],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 11,
+      "product_title": "Wireless Earbuds X",
+      "product_image": "https://i.ibb.co.com/Wp9CxJ1/daniel-romero-Arc-RAMb-YZI-unsplash.jpg",
+      "category": "Accessories",
+      "price": 120,
+      "description": "Wireless earbuds with noise cancellation.",
+      "specification": ["Bluetooth 5.0", "12-hour Battery", "Noise Cancellation"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 12,
+      "product_title": "Wireless Earbuds",
+      "product_image": "https://i.ibb.co.com/kHTBJSj/logan-weaver-lgnwvr-On4-VVUCw4j-M-unsplash.jpg",
+      "category": "Accessories",
+      "price": 120,
+      "description": "Wireless earbuds with noise cancellation.",
+      "specification": ["Bluetooth 5.0", "12-hour Battery", "Noise Cancellation"],
+      "availability": true,
+      "rating": 4.6
+    }
+  ]
