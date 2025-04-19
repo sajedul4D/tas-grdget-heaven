@@ -7,6 +7,7 @@ import DashBoard from "../Component/DashBoard";
 import Cart from "../Page/Cart";
 import AddToWish from "../Page/AddToWish";
 import Statistics from "../Component/Statistics";
+import Cusetomer from "../Component/Cusetomer";
 
 
 
@@ -37,6 +38,9 @@ const router=createBrowserRouter([
             ,{
                 path:'/statistics',
                 element:<Statistics></Statistics>
+                           },{
+                            path:'/customer',
+                            element:<Cusetomer></Cusetomer>
                            }
             
             ,

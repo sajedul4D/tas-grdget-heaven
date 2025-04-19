@@ -27,6 +27,7 @@ const NavBar = () => {
     <NavLink to='/' className={({isActive})=>`${isActive ? "bg-black text-white p-2 rounded-2xl":'hover:text-warning p-2'}`}>Home</NavLink>
         <NavLink to='/statistics' className={({isActive})=>`${isActive ? "bg-black text-white p-2 rounded-2xl":'hover:text-warning p-2'}`}>Statistics</NavLink>
         <NavLink to='/dashboard' className={({isActive})=>`${isActive ? "bg-black text-white p-2 rounded-2xl":'hover:text-warning p-2'}`}>DashBorad</NavLink>
+        <NavLink to='/customer' className={({isActive})=>`${isActive ? "bg-black text-white p-2 rounded-2xl":'hover:text-warning p-2'}`}>Reviews</NavLink>
     </ul>
   </div>
   <div className="navbar-end flex gap-10 mr-5 text-2xl font-bold">
