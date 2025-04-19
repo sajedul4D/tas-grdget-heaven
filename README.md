@@ -1,12 +1,20 @@
-# React + Vite
+Requirement Document Link:  https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08.pdf
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+List of React Fundamental concepts used in the project:
 
-Currently, two official plugins are available:
+1,jsx
+2,Component
+3,Context API
+3,React Router
+4,useState Hook
+5,Lists and Keys
+6,Conditional Rendering
+7Event Handling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+What you have used for handling and managing data (context
+API/local storage):i use local storge
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+5 features of your website/project: 1,routing 2,useNavigate 3,useLocation 4,dataLoad 5,useparams
+
+
