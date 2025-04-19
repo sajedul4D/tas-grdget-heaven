@@ -8,6 +8,7 @@ import Cart from "../Page/Cart";
 import AddToWish from "../Page/AddToWish";
 import Statistics from "../Component/Statistics";
 import Cusetomer from "../Component/Cusetomer";
+import Eroor from "../Page/Eroor";
 
 
 
@@ -17,6 +18,8 @@ const router=createBrowserRouter([
         
         path:'/',
         element:<Desgin></Desgin>,
+          errorElement:<Eroor></Eroor>
+        ,
         children:[
             {
                 path:'/',
