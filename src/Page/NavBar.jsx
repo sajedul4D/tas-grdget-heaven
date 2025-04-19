@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaShoppingCart } from "react-icons/fa";
 import { GiSelfLove } from "react-icons/gi";
-import { NavLink, useLocation } from 'react-router-dom';
+import { Link, NavLink, useLocation } from 'react-router-dom';
 const NavBar = () => {
   const {pathname}=useLocation([])
     return (
@@ -20,7 +20,7 @@ const NavBar = () => {
         <NavLink className={({isActive})=>`${isActive ? "text-warning":'hover:text-warning'}`}>DashBorad</NavLink>
       </ul>
     </div>
-    <a className="btn btn-ghost text-2xl">Tas_Grdget_</a>
+    <Link to="/"  className="btn btn-ghost text-2xl">Tas_Grdget_</Link>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal gap-16 px-1 text-xl font-bold">
