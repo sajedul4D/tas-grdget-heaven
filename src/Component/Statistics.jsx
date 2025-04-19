@@ -77,7 +77,7 @@ const Statistics = () => {
                 <p className="opacity-60 max-w-3xl mx-auto">Explore the latest gadgets that will take your experience to the next level. From smart devices to the coolest accessories, we have it all!</p> <br />
             </div>
           </div>  
-     <div className='w-1/2 mx-auto text-center'>
+     <div className='w-11/12 mx-auto text-center'>
      <ComposedChart
       width={1000}
       height={600}
